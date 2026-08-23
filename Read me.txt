@@ -1,0 +1,39 @@
+# Customer Segmentation Using Machine Learning
+
+## Project Overview
+
+This project applies customer segmentation techniques using the Sales Data Sample dataset from Kaggle.
+
+## Objectives
+
+- Identify customer groups
+- Improve marketing strategies
+- Support business decision making
+
+## Dataset
+
+Sales Data Sample Dataset (Kaggle)
+
+## Techniques Used
+
+- RFM Analysis
+- PCA
+- K-Means
+- Agglomerative Clustering
+- DBSCAN
+
+## Evaluation Metric
+
+- Silhouette Score
+
+## Repository Structure
+
+data/
+notebooks/
+models/
+src/
+reports/
+
+## Author
+
+Fotso Dickens
